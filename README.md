@@ -14,14 +14,14 @@
 </pre>
 
 ###
-MapStruct and Transfer Object Pattern 
-Basic Mapping 
-Mapping With Dependency Injection 
-Inject Spring Components into the Mapper 
-Mapping Fields With Different Field Names 
-Mapping Beans With Child Beans 
-Mapping With Type Conversion 
-Mapping With an Abstract Class 
-Before-Mapping and After-Mapping Annotations 
+MapStruct and Transfer Object Pattern <br />
+Basic Mapping <br />
+Mapping With Dependency Injection <br />
+Inject Spring Components into the Mapper <br />
+Mapping Fields With Different Field Names <br />
+Mapping Beans With Child Beans <br />
+Mapping With Type Conversion <br />
+Mapping With an Abstract Class <br />
+Before-Mapping and After-Mapping Annotations <br />
 Support for defaultExpression 
 
